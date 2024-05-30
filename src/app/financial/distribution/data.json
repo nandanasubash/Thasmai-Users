@@ -1,0 +1,88 @@
+[
+    {
+    "joinDate": "01/15/2023",
+    "id": 1,
+    "name": "John Doe",
+    "phone": "123-456-7890",
+    "email": "john.doe@example.com",
+    "distCoupons": 8,
+    "availCoupons": 10,
+    "branch": {
+        "level": 10,
+        "node": 28
+    },
+    "description": "For Education"
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "distCoupons": 8,
+        "availCoupons": 10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        },
+        "description": "For Education"
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "distCoupons": 8,
+        "availCoupons": 10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        },
+        "description": "For Education"
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "distCoupons": 8,
+        "availCoupons": 10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        },
+        "description": "For Education"
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "distCoupons": 8,
+        "availCoupons": 10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        },
+        "description": "For Education"
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "distCoupons": 8,
+        "availCoupons": 10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        },
+        "description": "For Education"
+    }
+   
+  ]
+  

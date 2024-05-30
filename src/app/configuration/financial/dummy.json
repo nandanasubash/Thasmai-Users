@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "field": "Point Threshold",
+        "value" : 2500
+        
+    },
+    {
+        "id" : 2,
+        "field": "Coupons Threshold",
+        "value" : 10
+        
+    },
+    {
+        "id" : 3,
+        "field": "Coupons Saturation Limit",
+        "value" : 10
+        
+    },
+    {
+        "id" : 4,
+        "field": "Fees",
+        "value" : 5000
+        
+    }
+    
+]

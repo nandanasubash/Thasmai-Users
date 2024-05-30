@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+.link{
+  border-radius:7px;
+  text-decoration: none;
+}
+
+/* :root {
+  --primary: transparent;
+  --secondary: #8686862f;
+}
+
+*{
+  font-family: "Poppins" ,sans-serif;
+  scrollbar-width: thin;
+ scrollbar-color: var(--secondary) var(--primary);
+} */
+
+*::-webkit-scrollbar {
+  width: 4px;
+
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--primary);
+   border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--secondary);
+  border-radius: 14px;
+  border: 3px solid var(--primary);
+}
+
+.rounded-class{
+  border-radius: 10px;
+}
+
+.mahadhanam-ban{
+  filter: grayscale(1);
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1001,
+        "name": "Jasmine",
+        "morningTime" : "6:00 to 6:45",
+        "eveningTime" : "7:00 to 7:45"
+    },
+    {
+        "id" : 1002,
+        "name": "Nandana",
+        "morningTime" : "6:00 to 6:45",
+        "eveningTime" : "7:00 to 7:45"
+    },
+    {
+        "id" : 1003,
+        "name": "Aswin",
+        "morningTime" : "6:00 to 6:45",
+        "eveningTime" : "7:00 to 7:45"
+    },
+    {
+        "id" : 1004,
+        "name": "Jisha P S",
+        "morningTime" : "6:00 to 6:45",
+        "eveningTime" : "7:00 to 7:45"
+    },
+    {
+        "id" : 1005,
+        "name": "Jeffin George",
+        "morningTime" : "6:00 to 6:45",
+        "eveningTime" : "7:00 to 7:45"
+    },
+    {
+        "id" : 1006,
+        "name": "Dojy Dominic",
+        "morningTime" : "6:00 to 6:45",
+        "eveningTime" : "7:00 to 7:45"
+    }
+]

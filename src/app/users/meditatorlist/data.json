@@ -1,0 +1,274 @@
+[
+    {
+    "id": 1,
+    "name": "John Doe",
+    "joinDate": "01/15/2023",
+    "coupons": 3,
+    "phone": "123-456-7890",
+    "email": "john.doe@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 2,
+    "name": "Jane Smith",
+    "joinDate": "02/20/2023",
+    "coupons": 5,
+    "phone": "234-567-8901",
+    "email": "jane.smith@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 3,
+    "name": "Robert Johnson",
+    "joinDate": "03/25/2023",
+    "coupons": 2,
+    "phone": "345-678-9012",
+    "email": "robert.johnson@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 4,
+    "name": "Emily Davis",
+    "joinDate": "04/30/2023",
+    "coupons": 7,
+    "phone": "456-789-0123",
+    "email": "emily.davis@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 5,
+    "name": "Michael Miller",
+    "joinDate": "05/05/2023",
+    "coupons": 1,
+    "phone": "567-890-1234",
+    "email": "michael.miller@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 6,
+    "name": "Olivia Brown",
+    "joinDate": "06/10/2023",
+    "coupons": 4,
+    "phone": "678-901-2345",
+    "email": "olivia.brown@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 7,
+    "name": "William White",
+    "joinDate": "07/15/2023",
+    "coupons": 6,
+    "phone": "789-012-3456",
+    "email": "william.white@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 8,
+    "name": "Emma Wilson",
+    "joinDate": "08/20/2023",
+    "coupons": 9,
+    "phone": "890-123-4567",
+    "email": "emma.wilson@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 9,
+    "name": "Daniel Taylor",
+    "joinDate": "09/25/2023",
+    "coupons": 3,
+    "phone": "901-234-5678",
+    "email": "daniel.taylor@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 10,
+    "name": "Sophia Martinez",
+    "joinDate": "10/30/2023",
+    "coupons": 5,
+    "phone": "012-345-6789",
+    "email": "sophia.martinez@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 11,
+    "name": "Samantha Johnson",
+    "joinDate": "11/15/2023",
+    "coupons": 2,
+    "phone": "123-456-7890",
+    "email": "samantha.johnson@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 12,
+    "name": "David Lee",
+    "joinDate": "12/20/2023",
+    "coupons": 4,
+    "phone": "234-567-8901",
+    "email": "david.lee@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 13,
+    "name": "Lisa Kim",
+    "joinDate": "01/10/2024",
+    "coupons": 3,
+    "phone": "345-678-9012",
+    "email": "lisa.kim@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 14,
+    "name": "Kevin Brown",
+    "joinDate": "02/15/2024",
+    "coupons": 5,
+    "phone": "456-789-0123",
+    "email": "kevin.brown@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 15,
+    "name": "Jessica Davis",
+    "joinDate": "03/20/2024",
+    "coupons": 7,
+    "phone": "678-901-2345",
+    "email": "jessica.davis@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 16,
+    "name": "James White",
+    "joinDate": "04/15/2024",
+    "coupons": 6,
+    "phone": "789-012-3456",
+    "email": "james.white@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 17,
+    "name": "Melissa Wilson",
+    "joinDate": "05/20/2024",
+    "coupons": 9,
+    "phone": "890-123-4567",
+    "email": "melissa.wilson@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 18,
+    "name": "Benjamin Taylor",
+    "joinDate": "06/15/2024",
+    "coupons": 3,
+    "phone": "901-234-5678",
+    "email": "benjamin.taylor@example.com",
+    "status": "Inactive"
+    },
+    {
+    "id": 19,
+    "name": "Samantha Martinez",
+    "joinDate": "07/20/2024",
+    "coupons": 5,
+    "phone": "012-345-6789",
+    "email": "samantha.martinez@example.com",
+    "status": "Active"
+    },
+    {
+    "id": 20,
+    "name": "David Lee",
+    "joinDate": "08/15/2024",
+    "coupons": 4,
+    "phone": "234-567-8901",
+    "email": "david.lee@example.com",
+    "status": "Inactive"
+    },
+    {
+      "id": 21,
+      "name": "Amanda Rodriguez",
+      "joinDate": "09/10/2024",
+      "coupons": 8,
+      "phone": "345-678-9012",
+      "email": "amanda.rodriguez@example.com",
+      "status": "Active"
+    },
+    {
+      "id": 22,
+      "name": "Christopher Adams",
+      "joinDate": "10/15/2024",
+      "coupons": 2,
+      "phone": "456-789-0123",
+      "email": "christopher.adams@example.com",
+      "status": "Inactive"
+    },
+    {
+      "id": 23,
+      "name": "Megan Walker",
+      "joinDate": "11/20/2024",
+      "coupons": 6,
+      "phone": "567-890-1234",
+      "email": "megan.walker@example.com",
+      "status": "Active"
+    },
+    {
+      "id": 24,
+      "name": "Daniel Turner",
+      "joinDate": "12/15/2024",
+      "coupons": 5,
+      "phone": "678-901-2345",
+      "email": "daniel.turner@example.com",
+      "status": "Inactive"
+    },
+    {
+      "id": 25,
+      "name": "Lauren Stewart",
+      "joinDate": "01/10/2025",
+      "coupons": 3,
+      "phone": "789-012-3456",
+      "email": "lauren.stewart@example.com",
+      "status": "Active"
+    },
+    {
+      "id": 26,
+      "name": "Andrew Lewis",
+      "joinDate": "02/15/2025",
+      "coupons": 7,
+      "phone": "890-123-4567",
+      "email": "andrew.lewis@example.com",
+      "status": "Inactive"
+    },
+    {
+      "id": 27,
+      "name": "Ashley Turner",
+      "joinDate": "03/20/2025",
+      "coupons": 4,
+      "phone": "901-234-5678",
+      "email": "ashley.turner@example.com",
+      "status": "Active"
+    },
+    {
+      "id": 28,
+      "name": "Nathan Ward",
+      "joinDate": "04/15/2025",
+      "coupons": 9,
+      "phone": "012-345-6789",
+      "email": "nathan.ward@example.com",
+      "status": "Inactive"
+    },
+    {
+      "id": 29,
+      "name": "Rachel Brooks",
+      "joinDate": "05/20/2025",
+      "coupons": 6,
+      "phone": "123-456-7890",
+      "email": "rachel.brooks@example.com",
+      "status": "Active"
+    },
+    {
+      "id": 30,
+      "name": "Josephine Reed",
+      "joinDate": "06/15/2025",
+      "coupons": 5,
+      "phone": "234-567-8901",
+      "email": "josephine.reed@example.com",
+      "status": "Inactive"
+    }
+   
+  ]
+  

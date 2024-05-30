@@ -1,0 +1,119 @@
+[
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "noOfDays": 6,
+        "noOfMembers": 11,
+        "feesPaid":2500,
+        "availCoupons":10,
+        "redeemedCoupons":2
+        
+    }
+]

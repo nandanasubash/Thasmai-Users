@@ -1,0 +1,153 @@
+[
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    },
+    {
+        "joinDate": "01/15/2023",
+        "id": 1,
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "FPSF": 10000,
+        "latestFee": 10,
+        "distCoupons":5,
+        "availCoupons":10,
+        "branch": {
+            "level": 10,
+            "node": 28
+        }
+    }
+
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "id" : 1,
+        "field": "Registartion Page Prompt",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 2,
+        "field": "Registartion Page Reference",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 3,
+        "field": "Registartion footer Text",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 4,
+        "field": "Registration success card message",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 5,
+        "field": "Registration success card phone number",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 6,
+        "field": "Registration success page heading",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 7,
+        "field": "Registration success page text",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 8,
+        "field": "Registartion footer Text",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 9,
+        "field": "Registartion footer Text",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 10,
+        "field": "Registartion footer Text",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    },
+    {
+        "id" : 11,
+        "field": "Registartion footer Text",
+        "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        
+    }
+    
+]
